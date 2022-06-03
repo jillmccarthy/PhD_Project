@@ -1,4 +1,4 @@
-# PhD Project: Data‐driven staging of genetic frontotemporal dementia using multi‐modal MRI 
+# PhD Project 1: Data‐driven staging of genetic frontotemporal dementia using multi‐modal MRI 
 
 
 
